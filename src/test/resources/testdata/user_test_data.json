@@ -1,0 +1,36 @@
+{
+  "valid_users": [
+    {
+      "id": "783214",
+      "username": "twitter",
+      "name": "Twitter",
+      "description": "What's happening?!",
+      "location": "Everywhere",
+      "verified": true
+    },
+    {
+      "id": "813286",
+      "username": "twitterdev",
+      "name": "Twitter Dev",
+      "description": "The official Twitter Developer Platform account",
+      "location": "San Francisco, CA",
+      "verified": true
+    }
+  ],
+  "invalid_users": [
+    {
+      "id": "999999999999999999",
+      "username": "invalid_username_12345",
+      "name": "Invalid User",
+      "description": "This user does not exist",
+      "location": "Nowhere",
+      "verified": false
+    }
+  ],
+  "test_queries": [
+    "API testing",
+    "automation",
+    "rest assured",
+    "cucumber bdd"
+  ]
+} 
